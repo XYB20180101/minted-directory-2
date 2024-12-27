@@ -123,7 +123,7 @@ export default defineAppConfig({
   },
   ui: {
     icons: {
-      dark: "tabler:moon",
+      dark: "i-tabler-moon-filled",
       light: "tabler:sun",
     },
   },
